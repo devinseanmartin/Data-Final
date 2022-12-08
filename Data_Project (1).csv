@@ -1,0 +1,33 @@
+Owner,Team,Purchase Price,Year acquired,Net Worth,Team Value,Operating Income,Stadium Cost,Year Stadium Built,Taxpayer help,Last renovation,Renovation cost,Did owner pay for stadium construction? ,Did owner pay for renovation? ,Inherit team? ,Ownership type
+Michael Bidwill,Arizona Cardinals,"$50,000",1932,"$1,400,000,000","$3,270,000,000","$112,000,000","$455,000,000",2006,Yes,,,No,,Yes,Single
+Arthur Blank,Atlanta Falcons,"$545,000,000",2002,"$7,200,000,000","$4,000,000,000","$171,800,000","$1,600,000,000",2017,Yes,,,Yes,,No,Single
+Steve Bisciotti,Baltimore Ravens,"$325,000,000",2000,"$5,700,000,000","$3,900,000,000","$127,400,000","$220,000,000",1998,Yes,2019,"$120,000,000",No,Yes,,Single
+Kim & Terry Pegula,Buffalo Bills,"$1,400,000,000",2014,"$5,700,000,000","$3,400,000,000","$83,400,000","$22,000,000",1973,Yes,2014,"$130,000,000",No,Yes,No,Couple
+David Tepper,Carolina Panthers,"$2,275,000,000",2018,"$15,800,000,000","$3,575,000,000","$138,800,000","$248,000,000",1996,No,2017,"$47,000,000",No,No,No,Single
+Virginia Halas McCaskey,Chicago Bears,$100,1983,"$1,300,000,000","$5,600,000,000","$155,700,000","$690,000,000",2003,Yes,,,No,,Yes,Single
+Mike Brown,Cincinnati Bengals,"$200,000,000",1991,"$925,000,000","$3,000,000,000","$113,800,000","$455,000,000",2000,Yes,,,Yes,,Yes,Single
+Jimmy & Dee Haslam,Cleveland Browns,"$1,050,000,000",2012,"$3,700,000,000","$3,850,000,000","$90,200,000","$283,000,000",1999,Yes,2013,"$120,000,000",No,Yes,No,Couple
+Jerry Jones,Dallas Cowboys,"$140,000,000",1989,"$9,100,000,000","$8,000,000,000","$465,900,000","$13,000,000,000",2009,Yes,,,Yes,,No,Single
+Rob Walton,Denver Broncos,"$4,650,000,000",2022,"$59,000,000,000","$4,650,000,000","$143,100,000","$401,000,000",2001,Yes,2013,"$32,000,000",No,No,No,Single
+Sheila Ford Hamp,Detroit Lions,"$4,500,000",2020,"$2,000,000,000","$3,050,000,000","$88,600,000","$500,000,000",2002,Yes,2017,"$100,000,000",No,No,Yes,Single
+Green Bay Packers Inc.,Green Bay Packers,N/A,1923,N/A,"$4,250,000,000","$138,400,000","$960,000",1957,Yes,2015,"$140,000,000",N/A,N/A,N/A,Corporation
+Janice McNair,Houston Texans,"$700,000,000",1999,"$4,200,000,000","$4,700,000,000","$211,500,000","$323,000,000",2002,No,,,No,,Yes,Single
+Jim Irsay,Indianapolis Colts,"$19,000,000",1997,"$3,000,000,000","$3,800,000,000","$99,600,000","$720,000,000",2008,Yes,,,Yes,,Yes,Single
+Shahid Khan,Jacksonville Jaguars,"$760,000,000",2012,"$8,500,000,000","$3,475,000,000","$113,700,000","$121,000,000",1995,Yes,2016,"$90,000,000",No,Yes,,Single
+Clark Hunt,Kansas City Chiefs,"$25,000",2006,"$15,300,000,000","$3,700,000,000","$118,800,000","$43,000,000",1972,Yes,2010,"$375,000,000",No,Yes,Yes,Single
+Mark Davis,Las Vegas Raiders,,2011,"500,000,000","$5,100,000,000","$116,500,000","$1,800,000,000",2020,Yes,,,Yes,,Yes,Single
+Dean Spanos,Los Angeles Chargers,"$72,000,000",2018,"$2,400,000,000","$3,875,000,000","$155,700,000",0*,2020,No,,,Yes,,Yes,Single
+Stan Kroenke,Los Angeles Rams,"$750,000,000",2010,"$10,700,000,000","$6,200,000,000","$203,100,000","$5,000,000,000",2020,No,,,Yes,,No,Single
+Stephen M. Ross,Miami Dolphins,"$1,000,000,000",2008,"$8,300,000,000","$4,600,000,000","$160,200,000","$115,000,000",1987,No,2015,"$500,000,000",No,Yes,No,Single
+Zygi Wilf,Minnesota Vikings,"$600,000,000",2005,"$1,300,000,000","$3,900,000,000","$140,900,000","$1,100,000,000",2016,Yes,,,Yes,,No,Single
+Robert Kraft,New England Patriots,"$175,000,000",1994,"$8,300,000,000","$6,400,000,000","$230,500,000","$325,000,000",2002,No,,,Yes,,No,Single
+Gayle Benson,New Orleans Saints,"$64,000,000",2018,"$3,800,000,000","$3,575,000,000","$125,200,000","$134,000,000",1975,Yes,2011,"$224,000,000",No,No,Yes,Single
+John Mara & Steve Tisch,New York Giants,$500,2005,"$1,700,000,000","$6,000,000,000","$177,900,000","$800,000,000",2010,No,,,Yes,,Yes,Couple
+Robert Wood Johnson & Christopher Johnson ,New York Jets,"$635,000,000",2000,"$6,300,000,000","$5,700,000,000","$135,800,000","$800,000,000",2010,No,,,Yes,,No,Couple
+Jeffrey Lurie,Philadelphia Eagles,"$185,000,000",1994,"$3,500,000,000","$4,900,000,000","$144,800,000","$512,000,000",2003,Yes,2014,"$125,000,000",Yes,Yes,No,Single
+Art Rooney II,Pittsburgh Steelers,"$2,500",2003,$750000000*,"$3,975,000,000","$135,100,000","$281,000,000",2001,Yes,2015,"$35,000,000",No,Yes,Yes,Single
+Denise DeBartolo York & Jed York,San Francisco 49ers,"$17,000,000",2008,"$4,000,000,000","$5,200,000,000","$142,500,000","$1,200,000,000",2014,Yes,,,Yes,,Yes,Couple
+Jody Allen ,Seattle Seahawks,"$200,000,000",2018,"$20,300,000,000","$4,500,000,000","$122,700,000","$430,000,000",2002,Yes,,,No,,Yes,Single
+Malcolm Glazer,Tampa Bay Buccaneers,"$192,000,000",1995,"$4,700,000,000","$3,675,000,000","$62,300,000","$194,000,000",1998,Yes,2016,"$140,000,000",Yes,Yes,No,Single
+Amy Adams Strunk,Tennessee Titans,"$25,000",2015,"$1,300,000,000","$3,500,000,000","$114,600,000","$290,000,000",1999,Yes,,,No,,Yes,Single
+Dan Snyder,Washington Commanders,"$800,000,000",1999,"$2,600,000,000","$5,600,000,000","$130,300,000","$250,000,000",1997,Yes,,,No,,No,Single
